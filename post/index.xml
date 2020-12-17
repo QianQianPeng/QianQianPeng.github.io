@@ -5,25 +5,25 @@
     <link>https://qianqianpeng.github.io/post/</link>
     <description>Recent content in Posts on 彭倩倩学习笔记</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright (c) 2020, Peng QianQian</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 20:46:11 +0800</lastBuildDate><atom:link href="https://qianqianpeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>pengqianqian</copyright>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://qianqianpeng.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>第一篇文章</title>
+      <title>Creating a New Theme</title>
       <link>https://qianqianpeng.github.io/post/first/</link>
-      <pubDate>Wed, 16 Dec 2020 20:46:11 +0800</pubDate>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://qianqianpeng.github.io/post/first/</guid>
-      <description>快乐池塘栽种了 梦想就变成海洋
-鼓的眼睛大嘴巴 同样唱的响亮
-借我一双小翅膀 就能飞向太阳
-我相信 奇迹就在身上
-啦啦啦啦啦
-啦啦啦啦啦
-啦啦啦啦
-有你相伴 leap frog
-啦啦啦啦啦
-啦啦啦啦啦</description>
+      <description>快乐池塘栽种了 梦想就变成海洋 鼓的眼睛大嘴巴 同样唱的响亮 借我一双小翅膀 就能飞向太阳 我相信 奇迹就在身上 啦啦啦啦啦 啦啦啦啦啦 啦啦啦啦 有你相伴 leap frog 啦</description>
+    </item>
+    
+    <item>
+      <title>hahah</title>
+      <link>https://qianqianpeng.github.io/post/first-%E5%89%AF%E6%9C%AC/</link>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://qianqianpeng.github.io/post/first-%E5%89%AF%E6%9C%AC/</guid>
+      <description>快乐池塘栽种了 梦想就变成海洋 鼓的眼睛大嘴巴 同样唱的响亮 借我一双小翅膀 就能飞向太阳 我相信 奇迹就在身上 啦啦啦啦啦 啦啦啦啦啦 啦啦啦啦 有你相伴 leap frog 啦</description>
     </item>
     
   </channel>

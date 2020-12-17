@@ -5,24 +5,51 @@
     <link>https://qianqianpeng.github.io/tags/</link>
     <description>Recent content in Tags on 彭倩倩学习笔记</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Copyright (c) 2020, Peng QianQian</copyright>
-    <lastBuildDate>Wed, 16 Dec 2020 20:46:11 +0800</lastBuildDate><atom:link href="https://qianqianpeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <copyright>pengqianqian</copyright>
+    <lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://qianqianpeng.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>iOS</title>
-      <link>https://qianqianpeng.github.io/tags/ios/</link>
-      <pubDate>Wed, 16 Dec 2020 20:46:11 +0800</pubDate>
+      <title>development</title>
+      <link>https://qianqianpeng.github.io/tags/development/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://qianqianpeng.github.io/tags/ios/</guid>
+      <guid>https://qianqianpeng.github.io/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>多线程</title>
-      <link>https://qianqianpeng.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
-      <pubDate>Wed, 16 Dec 2020 20:46:11 +0800</pubDate>
+      <title>go</title>
+      <link>https://qianqianpeng.github.io/tags/go/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://qianqianpeng.github.io/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</guid>
+      <guid>https://qianqianpeng.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://qianqianpeng.github.io/tags/golang/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://qianqianpeng.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://qianqianpeng.github.io/tags/templates/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://qianqianpeng.github.io/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://qianqianpeng.github.io/tags/themes/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://qianqianpeng.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
